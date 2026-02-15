@@ -27,17 +27,15 @@ website:
         href: posts/index.qmd
       - text: About
         href: about.qmd
+        
       #- text: ""
       #  href: https://orcid.org/0000-0002-0977-6847
       #  target: _blank
-  #sidebar:
-  #  contents:
-  #    - section: "Blog"
-   #     contents: posts
+  
   page-footer:
     background: light
     left: © 2026 Dinesh Gopinath
-    right: Made with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/dgnath/dgnath.github.io){target=_blank} [Quarto](https://quarto.org/){target=blank} # ToDo: Change to external link
+    right: Made with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/dgnath/dgnath.github.io){target=_blank} [Quarto](https://quarto.org/){target=blank} # To Do: Change to external link
 format:
   html:
     page-layout: full
@@ -51,6 +49,9 @@ format:
 
 execute:
   freeze: auto
+
+publish:
+  provider: github
 
 
 
