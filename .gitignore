@@ -1,5 +1,7 @@
+docs/
 env/
 /env/
 .httr-oauth
+.quarto/
 /.quarto/
 **/*.quarto_ipynb
