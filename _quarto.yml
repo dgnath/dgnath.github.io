@@ -3,7 +3,7 @@ project:
   output-dir: docs # Change this into 'docs' for Github pages.
 
 website:
-  title: "EE Notes"
+  title: "Dinesh Gopinath"
   # reader-mode: true
   # repo-url: https://github.com/dgnath/dgnath.github.io
   # repo-actions: [edit, issue]
@@ -21,18 +21,15 @@ website:
     #logo: images/logos/my-own-logo.png
     #logo-alt: "Describe the icon here"
     right:
-    search: true
-    left:
       - text: Home
         href: index.qmd
       - text: Blog
         href: posts/index.qmd
       - text: About
         href: about.qmd
-    right:
-      - text: ""
-        href: https://orcid.org/0000-0002-0977-6847
-        target: _blank
+      #- text: ""
+      #  href: https://orcid.org/0000-0002-0977-6847
+      #  target: _blank
   #sidebar:
   #  contents:
   #    - section: "Blog"
