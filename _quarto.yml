@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: docs # Change this into 'docs' for Github pages.
+
+website:
+  title: "EE Notes"
+  # reader-mode: true
+  # repo-url: https://github.com/dgnath/dgnath.github.io
+  # repo-actions: [edit, issue]
+  
+  #site-url: https://dgnath.github.io/
+  #favicon: images/favicon/my_favicon.png # Add my favicon png here.
+  #google-analytics:
+    #tracking-id: "ID-HERE" #
+    #anonymize-ip: true
+  description: "A learning journal on electrical engineering, power electronics, and technology."
+  navbar:
+    pinned: true
+    #background: primary
+    #title: false
+    #logo: images/logos/my-own-logo.png
+    #logo-alt: "Describe the icon here"
+    right:
+    search: true
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Blog
+        href: posts/index.qmd
+      - text: About
+        href: about.qmd
+    right:
+      - text: ""
+        href: https://orcid.org/0000-0002-0977-6847
+        target: _blank
+  #sidebar:
+  #  contents:
+  #    - section: "Blog"
+   #     contents: posts
+  page-footer:
+    background: light
+    left: © 2026 Dinesh Gopinath
+    right: Made with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/dgnath/dgnath.github.io){target=_blank} [Quarto](https://quarto.org/){target=blank} # ToDo: Change to external link
+format:
+  html:
+    page-layout: full
+    #sidebar: false
+    theme: cosmo #Other *good* themes are pandoc, cerulean, cyborg, darkly, flatly, journal, lumen,lux, minty, sandstone, sketchy, slate,spacelab, yeti,
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    code-copy: true
+    math: mathjax
+
+execute:
+  freeze: auto
+
+
+

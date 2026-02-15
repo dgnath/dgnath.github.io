@@ -1,0 +1,27 @@
+---
+title: "About"
+about:
+  template: solana
+  image: assets/images/profile.webp
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/mylogin
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/dingop.bsky.social
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com//in/dinesh-gopinath-40a5327/
+    - icon: orcid
+      text: OrcID
+      href: https://orcid.org/0000-0002-0977-6847
+---
+I am an Electrical Engineering educator and practitioner interested in:
+
+- Power electronic converters  
+- High-frequency magnetics  
+- Analog & mixed-signal circuits  
+- Engineering education  
+
+This site is **not a polished textbook**, but a **thinking notebook in public**.

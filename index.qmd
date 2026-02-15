@@ -1,0 +1,14 @@
+---
+title: "Engineering Notes & Experiments"
+---
+
+This site is a **journal of learning and teaching** in:
+
+- Electrical & Electronics Engineering  
+- Power Electronics  
+- Signals, Control, and Systems  
+- Engineering intuition and design thinking  
+
+The content is written primarily for **students**, but also as a **personal knowledge base**.
+
+> *“If you can explain it clearly, you understand it well.”*
