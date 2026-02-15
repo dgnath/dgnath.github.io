@@ -6,7 +6,7 @@ about:
   links: 
     - icon: github
       text: Github
-      href: https://github.com/mylogin
+      href: https://github.com/dgnath
     - icon: bluesky
       text: Bluesky
       href: https://bsky.app/profile/dingop.bsky.social
@@ -24,4 +24,4 @@ I am an Electrical Engineering educator and practitioner interested in:
 - Analog & mixed-signal circuits  
 - Engineering education  
 
-This site is **not a polished textbook**, but a **thinking notebook in public**.
+This site is **not a polished blog**, but a **thinking/brain-dump notebook in public**.
