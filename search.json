@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Engineering Notes & Experiments",
-    "section": "",
-    "text": "This site is a journal of learning and teaching in:\n\nElectrical & Electronics Engineering\n\nPower Electronics\n\nSignals, Control, and Systems\n\nEngineering intuition and design thinking\n\nThe content is written primarily for students, but also as a personal knowledge base.\n\n“If you can explain it clearly, you understand it well.”"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "I am an Electrical Engineering educator and practitioner interested in:\n\nPower electronic converters\n\nHigh-frequency magnetics\n\nAnalog & mixed-signal circuits\n\nEngineering education\n\nThis site is not a polished blog, but a thinking/brain-dump notebook in public."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Engineering Notes & Experiments",
+    "section": "",
+    "text": "This site is a journal of learning and teaching in:\n\nElectrical & Electronics Engineering\n\nPower Electronics\n\nSignals, Control, and Systems\n\nEngineering intuition and design thinking\n\nThe content is written primarily for students, but also as a personal knowledge base.\n\n“If you can explain it clearly, you understand it well.”"
   }
 ]
