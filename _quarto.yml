@@ -8,7 +8,7 @@ website:
   # repo-url: https://github.com/dgnath/dgnath.github.io
   # repo-actions: [edit, issue]
   
-  #site-url: https://dgnath.github.io/
+  site-url: https://dgnath.github.io/
   #favicon: images/favicon/my_favicon.png # Add my favicon png here.
   #google-analytics:
     #tracking-id: "ID-HERE" #
