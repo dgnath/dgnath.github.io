@@ -1,5 +1,10 @@
 ---
 title: "Engineering Notes & Experiments"
+#listing:  # This is to provide a listing of pages in the landing page.
+#  fields: [images, title, description,date,reading-time, categories]
+#  sort: "date desc"
+#  type: grid
+#  categories: true
 ---
 
 This site is a **journal of learning and teaching** in:
@@ -12,3 +17,4 @@ This site is a **journal of learning and teaching** in:
 The content is written primarily for **students**, but also as a **personal knowledge base**.
 
 > *“If you can explain it clearly, you understand it well.”*
+

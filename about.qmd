@@ -1,7 +1,10 @@
 ---
-title: "About"
+title: "About Me"
 about:
-  template: solana
+  template: solana #try another like trestles
+  image-shape: rounded
+  image-width: 15rem
+  id: ppc
   image: assets/images/profile.webp
   links: 
     - icon: github
@@ -15,8 +18,17 @@ about:
       href: https://www.linkedin.com//in/dinesh-gopinath-40a5327/
     - icon: orcid
       text: OrcID
-      href: https://orcid.org/0000-0002-0977-6847
+      href: "https://orcid.org/0000-0002-0977-6847"
+#resources: #if scripted animation is required.
+#  - "scripts/app.js"
+#  - "scripts/pe_animation.js"
+#  - "images/something.svg"
 ---
+::: {.grid}
+
+:::{.g-col-lg-9 .g-col-md-12 .g-col-sm-12 .g-col-xs-12 .justify-content-center}
+
+:::{#ppc}
 I am an Electrical Engineering educator and practitioner interested in:
 
 - Power electronic converters  
@@ -25,3 +37,18 @@ I am an Electrical Engineering educator and practitioner interested in:
 - Engineering education  
 
 This site is **not a polished blog**, but a **thinking/brain-dump notebook in public**.
+:::
+:::
+
+::: {.g-col-lg-3 .d-sm-none .d-md-none .d-lg-block}
+\```{=html}
+<!-- pe-animation.js container -->
+<div id="pe-animation-js" style="width:100%;height:100%;padding-right:2em;padding-top:3em;"></div>
+
+<!-- scripts -->
+<script src="scripts/pe-animation.js"></script>
+<script src="scripts/app.js"></script>
+\```
+:::
+
+:::

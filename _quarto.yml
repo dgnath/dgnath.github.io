@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs # Change this into 'docs' for Github pages.
+  output-dir: docs 
 
 website:
   title: "Dinesh Gopinath"
